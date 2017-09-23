@@ -9,4 +9,4 @@ cd bin
 screen -q -d -m ./xmr-stak-cpu
 echo done. press any key to continue
 # n option doe not work when shell called from term
-# read -n 1 -s -r -p "Press any key to continue"  
+read -n 1 -s -r -p "Press any key to continue"  
